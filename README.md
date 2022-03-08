@@ -19,8 +19,8 @@ As mentioned before, income inequality seemed to be a main factor in this data, 
 
 Finally, I wanted to visualize the simplified metric that was provided of overall income level of the different countries by continent in the pie chart, which could show at a glance which continents had the lowest income levels by a percentage. This visual is a more general view compared to the bar charts above since it doesn't specify which countries are the poorest and emphasizes the continents instead.  
 
-![plot2](https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeOceania.png?raw=true)
-![plot3](https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeAmericas.png?raw=true!)
-![plot3](https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeAfrica.png?raw=true!)
-![plot3](https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeEurope.png?raw=true!)
-![plot3](https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeAsia.png?raw=true!)
+![plot2](https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeOceania.png?raw=true=x250)
+![plot3](https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeAmericas.png?raw=true!=x250)
+![plot3](https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeAfrica.png?raw=true!=x250)
+![plot3](https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeEurope.png?raw=true!=x250)
+![plot3](https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeAsia.png?raw=true!=x250)
