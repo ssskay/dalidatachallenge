@@ -25,3 +25,5 @@ Finally, I wanted to visualize the simplified metric that was provided of overal
 <img src="https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeEurope.png" width="500">
 <img src="https://github.com/ssskay/dalidatachallenge/blob/main/part1viz/IncomeAsia.png" width="500">
 
+## Part 2
+For the second part, I used a data set that I created myself by scraping the Bible. I trained it using 6 different types of models that I learned through Professor Vosoughi's Data Mining and Machine Learning classes and evaluated which one worked best, which in this case was a tie between Random Forest, Logistic Regression and Multinomial Naïve Bayes. 
